@@ -2,3 +2,4 @@
 dierhe
 456
 learn study
+git has a mutable index called stage.
